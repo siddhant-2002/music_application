@@ -1,2 +1,3 @@
 # music_application
-build simple spotify clone  using the following technologies: HTML, CSS, JavaScript
+Build simple Spotify clone website using the following technologies
+HTML, CSS, JavaScript
